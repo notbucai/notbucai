@@ -25,4 +25,4 @@ GitHub: [notbucai](https://github.com/notbucai)
 Email: 1450941858@qq.com
 
 ## GitHub
-![不才's github](https://github-readme-stats.vercel.app/api?username=notbucai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000)
+![不才's github](https://github-readme-stats.vercel.app/api?username=notbucai&show_icons=true&title_color=FF4C3B&icon_color=FFD034&text_color=333333&bg_color=ffffff)
